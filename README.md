@@ -1,4 +1,7 @@
-<h2>Hi there 👋</h2>
+## Hi there 👋 I'm Soham
+I'm a grad student at the University of Freiburg, Germany and working as a HiWi and Master Thesis student [@automl](https://github.com/automl). \
+I'm interested in Machine Learning, particularly AutoML (Hyperparameter Optimization), and Deep Learning for Computer Vision.
 
-<p>Personal Blog: <a href="https://sohambasu07.wordpress.com/">sohambasu07.wordpress.com</a></p>
-<p>Personal Homepage: <a href="https://sohambasu07.github.io/">sohambasu07.github.io</a></p>
+
+Personal Blog: [sohambasu07.wordpress.com](https://sohambasu07.wordpress.com) \
+Personal Homepage: [sohambasu07.github.io](https://sohambasu07.github.io)
