@@ -4,4 +4,4 @@ I'm interested in Machine Learning, particularly AutoML (Hyperparameter Optimiza
 
 
 Personal Blog: [sohambasu07.wordpress.com](https://sohambasu07.wordpress.com) \
-Personal Homepage: [sohambasu07.github.io](https://sohambasu07.github.io)
+Personal Homepage: [sohambasu07.github.io](https://sohambasu.me)
